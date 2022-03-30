@@ -1,3 +1,7 @@
+//Time: 3ms
+//Space: 5.9mb
+//O(n)
+
 #include<iostream>
 using namespace std;
 
